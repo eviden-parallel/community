@@ -1,3 +1,3 @@
 # community
 
-_Community repository for the @atos-parallel organization_
+_Community repository for the @eviden-parallel organization_
