@@ -23,7 +23,7 @@ jobs:
     name: Check alt text is set
     runs-on: ubuntu-latest
     if: ${{ github.event.issue || github.event.pull_request || github.event.discussion }}
-		
+
     steps:
       - name: Get action 'github/accessibility-alt-text-bot'
         uses: github/accessibility-alt-text-bot@v1.2.0 # Set to latest
