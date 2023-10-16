@@ -26,4 +26,4 @@ jobs:
 
     steps:
       - name: Get action 'github/accessibility-alt-text-bot'
-        uses: github/accessibility-alt-text-bot@v1.3.0 # Set to latest
+        uses: github/accessibility-alt-text-bot@v1.4.0 # Set to latest
